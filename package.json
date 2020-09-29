@@ -23,7 +23,7 @@
   "scripts": {
     "dev": "grunt",
     "build": "grunt build",
-    "release": "grunt Distribute",
+    "start": "grunt Distribute",
     "test": "grunt test"
   }
 }
